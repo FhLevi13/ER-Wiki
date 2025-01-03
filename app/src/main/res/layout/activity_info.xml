@@ -23,6 +23,7 @@
         android:layout_centerHorizontal="true"
         android:textSize="21dp"
         android:textStyle="bold"
+        android:layout_margin="16dp"
         android:layout_above="@+id/iv_collab"/>
 
     <ImageView
